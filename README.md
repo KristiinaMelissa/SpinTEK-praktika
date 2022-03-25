@@ -1,0 +1,1 @@
+# SpinTEK-praktika
