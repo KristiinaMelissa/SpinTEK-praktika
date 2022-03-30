@@ -1,0 +1,21 @@
+{
+    "name": "kristiina-melissa/spin-tek-praktika",
+    "description": "PHP command-line bookkeeping application",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KristiinaMelissa\\SpinTekPraktika\\": ["src/","lib/"]
+        }
+    },
+    "authors": [
+        {
+            "name": "Kristiina Melissa Jõeäär",
+            "email": "krjoea@ttu.ee"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/console": "^6.0"
+    }
+}
